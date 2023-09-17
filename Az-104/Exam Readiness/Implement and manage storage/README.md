@@ -22,3 +22,6 @@ Implement and manage storage
 
 ![image](https://github.com/lellaaditya/Azure/assets/139613275/d162ba6e-6d49-4a57-962b-f25de28a2fc9)
 
+
+![image](https://github.com/lellaaditya/Azure/assets/139613275/c82c4fa6-4440-4e93-bcef-22ef602b047f)
+
