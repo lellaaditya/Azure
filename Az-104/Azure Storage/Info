@@ -20,3 +20,9 @@ Storage account tiers:
 Standard storage accounts are backed by magnetic hard disk drives (HDD),lowest cost per GB,require bulk storage or where data is infrequently accessed
 Premium storage accounts are backed by solid-state drives (SSD) and offer consistent low-latency performance. You can use Premium tier storage for Azure virtual machine disks with I/O-intensive applications like databases
 
+Note
+You can't convert a Standard tier storage account to a Premium tier storage account or vice versa. You must create a new storage account with the desired type and copy data, if applicable, to a new storage account
+
+Things to consider when using Azure Storage
+
+
