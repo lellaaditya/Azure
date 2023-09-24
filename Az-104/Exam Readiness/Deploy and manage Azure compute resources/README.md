@@ -15,3 +15,7 @@
 
 ![image](https://github.com/lellaaditya/Azure/assets/139613275/8213e8ce-6403-4b72-9cae-f1353b1355f7)
 
+![image](https://github.com/lellaaditya/Azure/assets/139613275/46151bfa-cfff-4d6c-a2ba-db0a325f4e75)
+
+![image](https://github.com/lellaaditya/Azure/assets/139613275/f1d48c55-42d0-402e-b30d-abb96651b048)
+
