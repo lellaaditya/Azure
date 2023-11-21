@@ -1,3 +1,3 @@
 # Azure
 
-" Microsoft Azure is a Cloud Provider"
+**Microsoft Azure is a Cloud Provider**
