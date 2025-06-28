@@ -13,3 +13,5 @@ azure storage account
 azure data lake
 azure App Service - Accidental deletion
 azure vm
+
+![image](https://github.com/user-attachments/assets/64aba1c3-5460-4f87-8b66-806dd39056b6)
